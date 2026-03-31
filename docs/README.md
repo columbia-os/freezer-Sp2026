@@ -562,5 +562,7 @@ Good luck!
 Ruizhe Fu and Nicholas Yap, TAs in Spring 2025, created and changed part 1, 4, 5, and updated code and
 solution to the 6.8 kernel.
 
+Mihir Joshi, TA in Spring 2026, updated part 4 for Microwave compatibility
+
 --------
 *Last updated: 2026-03-30*
