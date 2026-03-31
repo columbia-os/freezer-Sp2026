@@ -1,0 +1,26 @@
+name: columbia-os
+markdown: kramdown
+
+title: COMS W4118 Operating Systems I
+
+# This variable is automatically set by GitHub Pages and used by the
+# jekyll-github-metadata plugin; we set it explicitly for offline builds.
+repository: columbia-os/freezer-Sp2026
+
+plugins:
+  - jekyll-redirect-from
+
+  # The following are enabled by default on gh pages (and can't be disabled);
+  # see https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins.
+  #
+  # We explicitly list them here so that they are also used when generating the
+  # site offline.
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
